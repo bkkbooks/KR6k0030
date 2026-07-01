@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毘奈耶羯恥那衣事
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1449.xml
+    old_id: T24n1449
+hash: sha256:398cff4a23672a1a6ebc6bd34f9f090c0a686d1add9b15062eb6f698893ad1c2
