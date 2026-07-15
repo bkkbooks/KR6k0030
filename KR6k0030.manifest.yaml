@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0030/v1
 canonical_location: https://kanripo.org/bkk/KR6k0030/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 根本說一切有部毘奈耶羯恥那衣事
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0030_000.yaml, hash: 'sha256:398cff4a23672a1a6ebc6bd34f9f090c0a686d1add9b15062eb6f698893ad1c2'}
-  - {seq: 1, filename: KR6k0030_001.yaml, hash: 'sha256:53c45e55b49e867b8bbb85b9cb4788fcb778dec0acdf83e5c7ff88e66b09f327'}
+  - {seq: 1, filename: KR6k0030_001.yaml, hash: 'sha256:f7186125ad084dda02596e3f51e8a024d8d5ba30ab04d6d451cffd101c7df67b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0030_000.markers.yaml, hash: 'sha256:4877052d46bf4776edfb7afec56f0a439f4ea2ff08151fcd10cbcaf12aaa7118'}
-  - {seq: 1, role: markers, filename: assets/KR6k0030_001.markers.yaml, hash: 'sha256:ebbc11cce692e3dfcbb4a2a1fc29166a50ec6597642a8afa7eea3cdd6f834d69'}
+  - {seq: 1, role: markers, filename: assets/KR6k0030_001.markers.yaml, hash: 'sha256:b361505d0311b62ecc73c9cdf4a746005038918aad3cd4e039595b912e4f4902'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     衣事一卷'
   type: juan
   level: 1
-hash: sha256:61d3163cadb97e66a16e6f7ad67dac20beb51cb3c7fa9fc60ce9191329816253
+hash: sha256:e50a05e8c76301975b3cddda92033920f6205a97648b597735dddf35292e0ba3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
